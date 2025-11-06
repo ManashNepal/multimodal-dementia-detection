@@ -1,0 +1,7 @@
+Age: 82
+Sex: Male
+Education: 2
+SES: 4
+MMSE: 27
+
+True Prediction: CDR: 0.5

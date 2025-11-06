@@ -1,0 +1,7 @@
+Age: 74
+Sex: Female
+Education: 2
+SES: 3
+MMSE: 29
+
+True Prediction: CDR: 0
